@@ -1,0 +1,9 @@
+Aprendiz: Juan David Beltrán Herrera
+Ficha: 3351732
+Enlace del QR: const URL_PAGINA = "https://TU";
+Fecha: 14/11/2026, 8:18:08
+
+index.html: 23/23 líneas (completo)
+estilos.css: 17/17 líneas (completo)
+app.js: 18/18 líneas (completo)
+publicar.txt: 6/6 líneas (completo)
